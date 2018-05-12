@@ -1,0 +1,28 @@
+_repo: The-World-of-H.G.-Wells_42221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Van Wyck
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '41582'
+    url: http://www.gutenberg.org/2009/agents/41582
+description: ''
+gutenberg_issued: '2013-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42221'
+  lccn: '15005810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wells, H. G. (Herbert George), 1866-1946 -- Criticism and interpretation'
+- !lcc 'PR'
+- !lcsh 'Science fiction, English -- History and criticism'
+title: The World of H.G. Wells
+url: http://www.gutenberg.org/ebooks/42221
